@@ -3,8 +3,8 @@
 ## 💫 About Me
 - 🎓 B.Tech. Information Technology Student
 - 🏆 **Smart India Hackathon (SIH) Winner 2025** - 1st Prize 🏆
-- 💻 Passionate about [your interests: Web Dev/AI/IoT/etc.]
-- 🌱 Currently learning [technologies you're learning]
+- 💻 Passionate about Web Development
+- 🌱 Currently learning AI/ML
 - 📍 Based in India
 
 # 📊 GitHub Stats:
@@ -24,3 +24,5 @@
 [![X](https://img.shields.io/badge/-black.svg?style=flat-square&logo=X&logoColor=white)](your-linkedin)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](your-portfolio)
 
+---
+[![Profile Views](https://komarev.com/ghpvc/?username=rrit58&color=red)](https://github.com/rrit58)
